@@ -1,2 +1,2 @@
-# Recommendation-System-using-SVD
-Recommendation System using the SVD algorithm
+# Recommendation-Systems
+Recommendation Systems using various algorithms and ideas.
